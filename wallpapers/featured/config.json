@@ -1,0 +1,10 @@
+[
+  { "file": "featured_1.jpg", "color": "#FFFFFF", "size": 88, "font": "Orbitron", "position": "top-center" },
+  { "file": "featured_2.jpg", "color": "#FFFFFF", "size": 96, "font": "Oswald", "position": "top-left" },
+  { "file": "featured_3.jpg", "color": "#FFFFFF", "size": 90, "font": "Raleway", "position": "top-right" },
+  { "file": "featured_4.jpg", "color": "#FFFFFF", "size": 100, "font": "Exo 2", "position": "top-center" },
+  { "file": "featured_5.jpg", "color": "#FFFFFF", "size": 148, "font": "Anton", "position": "high-center" },
+  { "file": "featured_6.jpg", "color": "#66BB6A", "size": 108, "font": "Oswald", "position": "top-center" },
+  { "file": "featured_7.jpg", "color": "#FFD54F", "size": 84, "font": "Pacifico", "position": "top-center" },
+  { "file": "featured_8.jpg", "color": "#FFFFFF", "size": 92, "font": "Rajdhani", "position": "top-right" }
+]
